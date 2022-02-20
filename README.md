@@ -1,5 +1,5 @@
 - வணக்கம்🙏
-- 👋 Hi, I’m @aravindh-mb
+- 👋 Hi, I’m Aravindh
 - 👀 I’m interested in Web development !
 - 🌱 I’m currently learning HTML ,CSS ,JavaScript and other development based stuffs!
 - 😈Let's come to build our developers community!

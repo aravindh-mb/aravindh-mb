@@ -5,10 +5,11 @@
 webdeveloper
 ------------
 
-\-👀 I interested in Web development ! -🌱 I’m currently learning HTML ,CSS ,JavaScript ,Node ,React and other development based stuffs!
-
-* 🌍  I'm based in India
-* 🧠  I'm learning MERN stack
+\
+* 👀  I interested in Web development !
+* 🌍  I'm based in India !
+* 🧠  I'm learning MERN stack !
+* 🌱 I’m currently learning HTML ,CSS ,JavaScript ,Node ,React and other development based stuffs!
 
 <a href="https://www.github.com/aravindh-mb" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/aravindh-mb?logo=github&style=for-the-badge&color=f97316&labelColor=ffffff" /></a>

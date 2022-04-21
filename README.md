@@ -1,5 +1,5 @@
-- வணக்கம்🙏
--Hi 👋 My name is Aravindh
+வணக்கம்🙏 ,
+Hi 👋 My name is Aravindh
 
 
 webdeveloper

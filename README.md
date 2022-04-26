@@ -5,10 +5,10 @@ Hi 👋 My name is Aravindh
 webdeveloper
 ------------
 
-\
+
 * 👀  I interested in Web development !
 * 🌍  I'm based in India !
-* 🧠  I'm learning MERN stack !
+* 🎉  Future MERN stack developer!
 * 🌱 I’m currently learning HTML ,CSS ,JavaScript ,Node ,React and other development based stuffs!
 
 <a href="https://www.github.com/aravindh-mb" target="_blank" rel="noreferrer"><img

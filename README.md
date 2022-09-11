@@ -17,12 +17,13 @@ src="https://img.shields.io/github/followers/aravindh-mb?logo=github&style=for-t
 
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="Javascript" /></a>
-
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a>
 
 <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
 <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
+
 <!-- <a href="https://jquery.com/" target="_blank" rel="noreferrer"><img src="[https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/jquery-colored.svg](https://www.google.com/imgres?imgurl=https%3A%2F%2Fcdn.cdnlogo.com%2Flogos%2Fr%2F85%2Freact.svg&imgrefurl=https%3A%2F%2Fcdnlogo.com%2Flogo%2Freact_39944.html&tbnid=s29tojNDT-ujZM&vet=12ahUKEwj93tDataX5AhXhoukKHdLiBKsQMygCegUIARDGAQ..i&docid=b9zVk5H_sJ6aLM&w=3619&h=3619&q=react%20SVg&ved=2ahUKEwj93tDataX5AhXhoukKHdLiBKsQMygCegUIARDGAQ)" width="36" height="36" alt="JQuery" /></a> -->
+
 <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a>
 <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
 

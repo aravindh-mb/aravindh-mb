@@ -2,7 +2,7 @@
 Hi 👋 My name is Aravindh
 
 
-webdeveloper
+# webdeveloper
 ------------
 
 
@@ -13,7 +13,7 @@ webdeveloper
 
 <a href="https://www.github.com/aravindh-mb" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/aravindh-mb?logo=github&style=for-the-badge&color=f97316&labelColor=ffffff" /></a>
-### Skills
+# Skills
 
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="Javascript" /></a>
@@ -25,7 +25,9 @@ src="https://img.shields.io/github/followers/aravindh-mb?logo=github&style=for-t
 <!-- <a href="https://jquery.com/" target="_blank" rel="noreferrer"><img src="[https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/jquery-colored.svg](https://www.google.com/imgres?imgurl=https%3A%2F%2Fcdn.cdnlogo.com%2Flogos%2Fr%2F85%2Freact.svg&imgrefurl=https%3A%2F%2Fcdnlogo.com%2Flogo%2Freact_39944.html&tbnid=s29tojNDT-ujZM&vet=12ahUKEwj93tDataX5AhXhoukKHdLiBKsQMygCegUIARDGAQ..i&docid=b9zVk5H_sJ6aLM&w=3619&h=3619&q=react%20SVg&ved=2ahUKEwj93tDataX5AhXhoukKHdLiBKsQMygCegUIARDGAQ)" width="36" height="36" alt="JQuery" /></a> -->
 
 <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a>
-<a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
+<a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>    <a href="https://flask.palletsprojects.com/en/2.0.x/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flask-colored-dark.svg" width="36" height="36" alt="Flask" /></a>
+
+
 
 <p align="left">
 <a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="36" height="36" alt="Sass" /></a>
@@ -36,17 +38,20 @@ src="https://img.shields.io/github/followers/aravindh-mb?logo=github&style=for-t
   <a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored-dark.svg" width="36" height="36" alt="Express" /></a>
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a>
   
+
+  
+  
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
 <a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored-dark.svg" width="36" height="36" alt="Photoshop" /></a>
 <a href="https://www.adobe.com/uk/products/xd.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/xd-colored-dark.svg" width="36" height="36" alt="XD" /></a>
 </p>
 
-### Socials
+# Socials
 
 <p align="left"> <a href="https://www.github.com/aravindh-mb" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/webdevfrontend" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a></p>
-### Badges
 
-<b>My GitHub Stats</b>
+
+# <b>My GitHub Stats</b>
 
 <a href="http://www.github.com/aravindh-mb"><img src="https://github-readme-stats.vercel.app/api?username=aravindh-mb&show_icons=true&hide=&count_private=true&title_color=22c55e&text_color=ef4444&icon_color=f97316&bg_color=ffffff&hide_border=true&show_icons=true" alt="aravindh-mb's GitHub stats" /></a>
 

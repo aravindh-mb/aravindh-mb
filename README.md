@@ -13,7 +13,7 @@ Hi 👋 My name is Aravindh
 
 <a href="https://www.github.com/aravindh-mb" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/aravindh-mb?logo=github&style=for-the-badge&color=f97316&labelColor=ffffff" /></a>
-# Skills
+### Skills
 
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="Javascript" /></a>
@@ -46,12 +46,12 @@ src="https://img.shields.io/github/followers/aravindh-mb?logo=github&style=for-t
 <a href="https://www.adobe.com/uk/products/xd.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/xd-colored-dark.svg" width="36" height="36" alt="XD" /></a>
 </p>
 
-# Socials
+### Socials
 
 <p align="left"> <a href="https://www.github.com/aravindh-mb" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/webdevfrontend" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a></p>
 
 
-# <b>My GitHub Stats</b>
+### <b>My GitHub Stats</b>
 
 <a href="http://www.github.com/aravindh-mb"><img src="https://github-readme-stats.vercel.app/api?username=aravindh-mb&show_icons=true&hide=&count_private=true&title_color=22c55e&text_color=ef4444&icon_color=f97316&bg_color=ffffff&hide_border=true&show_icons=true" alt="aravindh-mb's GitHub stats" /></a>
 

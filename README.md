@@ -6,7 +6,7 @@ Hi 👋 My name is Aravindh
 
 
 
-* 👀  I interested in Web development || web security || API development
+* 👀  I interested in Web development || web security || API development || React Native Expo
 * 🌍  I'm based in India !
 * 🎉  Future MERN stack developer!
 * 🌱 I’m currently learning HTML ,CSS ,JavaScript ,Node ,React and other development based stuffs!

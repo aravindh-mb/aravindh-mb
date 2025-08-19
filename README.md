@@ -6,7 +6,7 @@
 
 ## 🚀 About Me
 
-- 🔭 **Currently Building:** Modern web applications with React, Next.js, and cloud infrastructure
+- 🔭 **Currently Building:** Modern web applications with React, Next.js, and cloud infrastructure and youtube automation
 - 🌱 **Learning Focus:** Advanced web security practices and cloud architecture patterns
 - 🎯 **Specialization:** Full-stack development with modern JavaScript frameworks
 - 🌍 **Location:** India 🇮🇳

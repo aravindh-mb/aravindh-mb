@@ -1,7 +1,7 @@
 # வணக்கம் 🙏 Hi there, I'm Aravindh! 👋
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=22C55E&center=true&vCenter=true&random=false&width=600&lines=Full+Stack+Developer;Web+Security+Enthusiast;React+%26+React+Native+Expert;Cloud+Solutions+Architect" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=22C55E&center=true&vCenter=true&random=false&width=600&lines=Full+Stack+Developer;Web+Security+Enthusiast;React+%26+React+Native+Developer;Cloud+Solutions+Architect" alt="Typing SVG" />
 </div>
 
 ## 🚀 About Me

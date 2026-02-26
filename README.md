@@ -17,6 +17,23 @@
   <img src="https://img.shields.io/github/followers/aravindh-mb?logo=github&style=for-the-badge&color=22c55e&labelColor=1f2937" />
 </a>
 
+---
+
+## 🔥 Creator of Open Source Packages
+
+- 📎 **[@aravindh-arumugam/universal-attachment-viewer](https://www.npmjs.com/package/@aravindh-arumugam/universal-attachment-viewer)**  
+  View PDFs, images, video, audio & more in one React component.
+
+- ⚡ **[@aravindh-arumugam/flash-fill](https://www.npmjs.com/package/@aravindh-arumugam/flash-fill)**  
+  AI-powered form autofill tool for faster development.
+
+- 📊 **[@aravindh-arumugam/zentable](https://www.npmjs.com/package/@aravindh-arumugam/zentable)**  
+  Lightweight, performant table for modern React apps.
+
+🧠 Building developer tools to make the web better.
+
+---
+
 ## 🛠️ Tech Stack
 
 ### Frontend Development

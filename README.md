@@ -19,7 +19,7 @@
 
 ---
 
-## 🔥 Creator of Open Source Packages
+## 🔥 Creator of NPM Packages
 
 - 📎 **[@aravindh-arumugam/universal-attachment-viewer](https://www.npmjs.com/package/@aravindh-arumugam/universal-attachment-viewer)**  
   View PDFs, images, video, audio & more in one React component.

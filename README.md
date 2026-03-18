@@ -25,7 +25,7 @@
   View PDFs, images, video, audio & more in one React component.
 
 - ⚡ **[@aravindh-arumugam/flash-fill](https://www.npmjs.com/package/@aravindh-arumugam/flash-fill)**  
-  AI-powered form autofill tool for faster development.
+  Form autofill tool for faster development.
 
 - 📊 **[@aravindh-arumugam/zentable](https://www.npmjs.com/package/@aravindh-arumugam/zentable)**  
   Lightweight, performant table for modern React apps.

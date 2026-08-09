@@ -17,22 +17,28 @@
   <img src="https://img.shields.io/github/followers/aravindh-mb?logo=github&style=for-the-badge&color=22c55e&labelColor=1f2937" />
 </a>
 
+## 🚀 Open Source Projects & NPM Packages
+
+### 🧠 [Chanakya MCP](https://github.com/aravindh-mb/chanakya-mcp) • [![npm](https://img.shields.io/npm/v/@aravindh-arumugam/chanakya-mcp?color=38bdf8&style=flat-square)](https://www.npmjs.com/package/@aravindh-arumugam/chanakya-mcp)
+> **Deterministic Structural Code Intelligence for AI Coding Agents**  
+> A high-performance local Model Context Protocol (MCP) server delivering native Tree-Sitter AST parsing and relational SQLite indexing for Claude Code, Cursor, and Windsurf. **Zero embeddings, zero network calls, and 95% token savings.**
+
 ---
 
-## 🔥 Creator of NPM Packages
+### 📦 Published NPM Packages
 
 - 📎 **[@aravindh-arumugam/universal-attachment-viewer](https://www.npmjs.com/package/@aravindh-arumugam/universal-attachment-viewer)**  
-  View PDFs, images, video, audio & more in one React component.
+  *Universal React component to preview and render PDFs, images, videos, audio, and documents.*
 
 - ⚡ **[@aravindh-arumugam/flash-fill](https://www.npmjs.com/package/@aravindh-arumugam/flash-fill)**  
-  Form autofill tool for faster development.
+  *Smart form autofill developer tool to accelerate frontend testing and form workflows.*
 
 - 📊 **[@aravindh-arumugam/zentable](https://www.npmjs.com/package/@aravindh-arumugam/zentable)**  
-  Lightweight, performant table for modern React apps.
-
-🧠 Building developer tools to make the web better.
+  *Lightweight, ultra-performant data table component designed for modern React applications.*
 
 ---
+
+*💡 Building developer tools, high-performance systems, and AI agent infrastructure.*
 
 
 ## 🔒 Security Focus

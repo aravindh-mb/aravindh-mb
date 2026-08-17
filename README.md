@@ -1,95 +1,146 @@
-# Hi there, I'm Aravindh! 👋
+# Hi, I'm Aravindh 👋
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=22C55E&center=true&vCenter=true&random=false&width=600&lines=Full+Stack+Developer;Web+Security+Enthusiast;React+%26+React+Native+Developer;" alt="Typing SVG" />
-</div>
+### Senior Software Engineer · Full-Stack Developer · RAG & AI Engineering
+
+I build **scalable web and mobile applications, developer tools, and AI-powered systems** using modern TypeScript and JavaScript technologies.
+
+Currently expanding my expertise in **RAG, LLM applications, LangChain, embeddings, vector databases, and AI application architecture**.
+
+---
 
 ## 🚀 About Me
 
-- 🔭 **Currently Building:** Modern web applications with React, Next.js, and cloud infrastructure and youtube automation
-- 🌱 **Learning Focus:** Advanced web security practices and cloud architecture patterns
-- 🎯 **Specialization:** Full-stack development with modern JavaScript frameworks
-- 🌍 **Location:** India 🇮🇳
-- 💡 **Passion:** Creating secure, scalable, and performant web applications
-- 📱 **Mobile Development:** Building cross-platform apps with React Native & Expo
-
-<a href="https://www.github.com/aravindh-mb" target="_blank" rel="noreferrer">
-  <img src="https://img.shields.io/github/followers/aravindh-mb?logo=github&style=for-the-badge&color=22c55e&labelColor=1f2937" />
-</a>
-
-## 🚀 NPM Packages
-
-### 🧠 [Chanakya MCP]([https://github.com/aravindh-mb/chanakya-mcp](https://chanakyamcp.vercel.app/)) • [![npm](https://img.shields.io/npm/v/@aravindh-arumugam/chanakya-mcp?color=38bdf8&style=flat-square)](https://www.npmjs.com/package/@aravindh-arumugam/chanakya-mcp)
-> **Deterministic Structural Code Intelligence for AI Coding Agents**  
-> A high-performance local Model Context Protocol (MCP) server delivering native Tree-Sitter AST parsing and relational SQLite indexing for Claude Code, Cursor, and Windsurf. **Zero embeddings, zero network calls, and 95% token savings.**
+* 💻 Senior Software Engineer focused on **Full-Stack Development**
+* ⚛️ Experienced with **React, Next.js, React Native & Expo**
+* 🧠 Currently learning and building with **RAG, LLMs & LangChain**
+* 🔎 Exploring **embeddings, semantic search & vector databases**
+* 🗄️ Working with **PostgreSQL, pgvector & modern backend systems**
+* 🐳 Building and deploying applications with **Docker & cloud infrastructure**
+* 🛠️ Creator of developer tools and open-source NPM packages
+* 🌱 Interested in **AI engineering, developer infrastructure & scalable systems**
+* 🇮🇳 Based in India
 
 ---
 
-### 📦 Published NPM Packages
+## 🧠 Currently Learning
 
-- 📎 **[@aravindh-arumugam/universal-attachment-viewer](https://www.npmjs.com/package/@aravindh-arumugam/universal-attachment-viewer)**  
-  *Universal React component to preview and render PDFs, images, videos, audio, and documents.*
+**AI / RAG**
 
-- ⚡ **[@aravindh-arumugam/flash-fill](https://www.npmjs.com/package/@aravindh-arumugam/flash-fill)**  
-  *Smart form autofill developer tool to accelerate frontend testing and form workflows.*
+`RAG` · `LLMs` · `LangChain` · `Embeddings` · `Vector Search` · `pgvector` · `Ollama` · `Prompt Engineering`
 
-- 📊 **[@aravindh-arumugam/zentable](https://www.npmjs.com/package/@aravindh-arumugam/zentable)**  
-  *Lightweight, ultra-performant data table component designed for modern React applications.*
+**Cloud & Infrastructure**
+
+`AWS` · `Docker` · `Vercel` · `Cloud Architecture`
 
 ---
 
-*💡 Building developer tools, high-performance systems, and AI agent infrastructure.*
+## 🛠️ Tech Stack
 
+### Frontend
 
-## 🔒 Security Focus
+`React` · `Next.js` · `TypeScript` · `JavaScript` · `Vite` · `Svelte` · `Tailwind CSS`
 
-I specialize in **web security** practices including:
-- 🛡️ Secure authentication and authorization
-- 🔐 API security and rate limiting  
-- 🚦 Input validation and sanitization
-- 🔍 Security auditing and vulnerability assessment
-- 📊 OWASP compliance and best practices
+### Backend
 
-## 📈 GitHub Analytics
+`Node.js` · `Express.js` · `Hono.js` · `REST APIs` · `GraphQL`
+
+### AI / Data
+
+`RAG` · `LLMs` · `LangChain` · `Embeddings` · `pgvector` · `PostgreSQL` · `Ollama`
+
+### Mobile
+
+`React Native` · `Expo`
+
+### Infrastructure
+
+`Docker` · `AWS` · `Vercel` · `CloudFront` · `S3`
+
+---
+
+## 🧠 Featured Project
+
+### Chanakya MCP
+
+**Deterministic Structural Code Intelligence for AI Coding Agents**
+
+A local-first MCP server built with **Tree-Sitter AST parsing and relational SQLite indexing** to provide structured code intelligence to AI coding agents.
+
+* 🌳 Tree-Sitter AST parsing
+* 🔗 Dependency & dependent analysis
+* 🗂️ Relational code graphs
+* 🔒 Local-first architecture
+* 🚫 Zero embeddings
+* ⚡ Reduced AI context and token usage
+
+**[GitHub](https://github.com/aravindh-mb/chanakya-mcp) · [Website](https://chanakyamcp.vercel.app/) · [NPM](https://www.npmjs.com/package/@aravindh-arumugam/chanakya-mcp)**
+
+---
+
+## 📦 Open Source Packages
+
+### [@aravindh-arumugam/chanakya-mcp](https://www.npmjs.com/package/@aravindh-arumugam/chanakya-mcp)
+
+Deterministic structural code intelligence for AI coding agents.
+
+### [@aravindh-arumugam/universal-attachment-viewer](https://www.npmjs.com/package/@aravindh-arumugam/universal-attachment-viewer)
+
+Universal React component for previewing PDFs, images, videos, audio and documents.
+
+### [@aravindh-arumugam/flash-fill](https://www.npmjs.com/package/@aravindh-arumugam/flash-fill)
+
+Developer tool for faster frontend form testing and autofill workflows.
+
+### [@aravindh-arumugam/zentable](https://www.npmjs.com/package/@aravindh-arumugam/zentable)
+
+Lightweight and performant data table component for modern React applications.
+
+---
+
+## 🚀 Current Projects & Interests
+
+* 🧠 Building **private RAG systems for document intelligence**
+* 🤖 Exploring **LLM-powered applications**
+* 🔗 Learning **LangChain and modern AI workflows**
+* 📚 Working with **document chunking, embeddings and semantic search**
+* 📱 Building **Photo Bloom**, an AI-powered photo application
+* 🛠️ Developing open-source **developer tools and AI infrastructure**
+* ☁️ Exploring scalable **cloud-native architectures**
+
+---
+
+## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=aravindh-mb&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=22c55e&text_color=ffffff&icon_color=f97316"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aravindh-mb&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=22c55e&text_color=ffffff"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=aravindh-mb&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=22c55e&text_color=ffffff&icon_color=f97316"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aravindh-mb&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=22c55e&text_color=ffffff"/>
+
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aravindh-mb&theme=dark&hide_border=true&background=0d1117&stroke=22c55e&ring=22c55e&fire=f97316&currStreakNum=ffffff&currStreakLabel=22c55e&sideNums=ffffff&sideLabels=ffffff&dates=ffffff" alt="GitHub Streak"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=aravindh-mb&theme=dark&hide_border=true&background=0d1117&stroke=22c55e&ring=22c55e&fire=f97316&currStreakNum=ffffff&currStreakLabel=22c55e&sideNums=ffffff&sideLabels=ffffff&dates=ffffff" />
+
 </div>
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aravindh-mb&theme=github-compact&hide_border=true&bg_color=0d1117&color=22c55e&line=f97316&point=ffffff&area=true&area_color=22c55e" alt="Contribution Graph"/>
-</div>
+---
 
 ## 🌐 Connect With Me
 
-<p align="left">
-  <a href="https://www.github.com/aravindh-mb" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="40" height="40" />
-  </a>
-  <a href="http://www.instagram.com/webdevfrontend" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="40" height="40" />
-  </a>
-</p>
+<div align="left">
 
-## 💡 Current Focus
+<a href="https://github.com/aravindh-mb">
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="40" />
+</a>
 
-- 🔧 Building scalable applications with modern React patterns
-- ☁️ Exploring advanced Google Cloud Platform services
-- 🔐 Deepening expertise in web security and ethical hacking
-- 📱 Creating performant mobile apps with React Native and Expo
-- 🚀 Optimizing deployment pipelines with Docker and Vercel
+</div>
 
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=aravindh-mb&style=for-the-badge&color=22c55e" alt="Profile Views"/>
-</div>
 
-<div align="center">
-  <i>⭐️ From <a href="https://github.com/aravindh-mb">aravindh-mb</a> | Building the future, one commit at a time! 🚀</i>
+**Build · Learn · Experiment · Ship 🚀**
+
 </div>

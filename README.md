@@ -22,7 +22,7 @@ Currently expanding my expertise in **RAG, LLM applications, LangChain, embeddin
 
 ---
 
-## 🧠 Currently Learning
+## 🧠 Currently Implementing
 
 **AI / RAG**
 

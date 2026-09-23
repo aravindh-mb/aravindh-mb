@@ -4,7 +4,7 @@
 
 I build **scalable web and mobile applications, developer tools, and AI-powered systems** using modern TypeScript and JavaScript technologies.
 
-Currently expanding my expertise in **RAG, LLM applications, LangChain, embeddings, vector databases, and AI application architecture**.
+Currently expanding my expertise in **IaC, RAG, LLM applications, LangChain, embeddings, vector databases, and AI application architecture**.
 
 ---
 
